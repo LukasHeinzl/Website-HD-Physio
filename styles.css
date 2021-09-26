@@ -1,5 +1,5 @@
 * {
-	font-family: Helvetica;
+	font-family: Helvetica, sans-serif;
 	text-decoration: none;
 }
 
@@ -34,10 +34,6 @@ a:hover {
 	
 	background-color: #f0f0f0;
 	border-bottom: 1px solid #b0da4e;
-}
-
-#header img {
-	width: 100px;
 }
 
 .header-link {
